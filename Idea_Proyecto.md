@@ -11,19 +11,30 @@ Mediante una interfaz sencilla, el usuario puede especificar cuántos registros 
 2. Objetivos del Proyecto
 
 Objetivo General:
-    - Desarrollar una aplicación web en Java que permita generar e insertar datos de prueba en una base de datos relacional de forma automatizada, utilizando la arquitectura de tres capas y el patrón MVC.
+
+- Desarrollar una aplicación web en Java que permita generar e insertar datos de prueba en una base de datos relacional de forma automatizada, utilizando la arquitectura de tres capas y el patrón MVC.
+
 
 Objetivos Específicos:
-    - Diseñar una interfaz web simple que permita al usuario ingresar la cantidad de registros a generar.
-    - Aplicar el patrón MVC y arquitectura en tres capas (modelo, servicio y acceso a datos) para separar responsabilidades del sistema.
-    - Implementar la conexión a base de datos mediante JDBC, asegurando una inserción eficiente y controlada de datos.
-    - Utilizar la librería Faker para generar datos falsos con formato realista (nombres, correos, teléfonos, etc.).
-    - Registrar los datos generados en una tabla específica dentro de una base de datos relacional (por ejemplo, MySQL).
-    - Validar y mostrar mensajes al usuario sobre el resultado de la operación de generación.
+
+- Diseñar una interfaz web simple que permita al usuario ingresar la cantidad de registros a generar.
+
+- Aplicar el patrón MVC y arquitectura en tres capas (modelo, servicio y acceso a datos) para separar responsabilidades del sistema.
+
+- Implementar la conexión a base de datos mediante JDBC, asegurando una inserción eficiente y controlada de datos.
+
+- Utilizar la librería Faker para generar datos falsos con formato realista (nombres, correos, teléfonos, etc.).
+
+- Registrar los datos generados en una tabla específica dentro de una base de datos relacional (por ejemplo, MySQL).
+
+- Validar y mostrar mensajes al usuario sobre el resultado de la operación de generación.
+
+
 
 
 Integrantes:
 - Nestor Serrano Ibañez
 - Junior Mamani Estaña
 - Richard Podestá Condori
+
 
